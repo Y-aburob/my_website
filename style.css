@@ -325,5 +325,6 @@ footer p {
     footer, .mid, .top {
 
         width: 48rem;
+        margin-right: -60%;
     }
 }
