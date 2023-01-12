@@ -326,7 +326,7 @@ footer p {
     footer, .mid, .top {
 
         width: 100%;
-        margin-right: -50%;
+        margin-right: -200%;
         padding-right: 100%;
         box-sizing: content-box;
     }
